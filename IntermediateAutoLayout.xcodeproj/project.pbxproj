@@ -13,6 +13,7 @@
 		054713D01FA71B2F00EE1B96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 054713CF1FA71B2F00EE1B96 /* Assets.xcassets */; };
 		054713D31FA71B2F00EE1B96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 054713D11FA71B2F00EE1B96 /* LaunchScreen.storyboard */; };
 		05C9DD011FA7ABDA0042EE28 /* ResizableLabel.xib in Resources */ = {isa = PBXBuildFile; fileRef = 05C9DD001FA7ABDA0042EE28 /* ResizableLabel.xib */; };
+		05C9DD031FA7BBB80042EE28 /* LinearStack.xib in Resources */ = {isa = PBXBuildFile; fileRef = 05C9DD021FA7BBB80042EE28 /* LinearStack.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		054713D21FA71B2F00EE1B96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		054713D41FA71B2F00EE1B96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05C9DD001FA7ABDA0042EE28 /* ResizableLabel.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ResizableLabel.xib; sourceTree = "<group>"; };
+		05C9DD021FA7BBB80042EE28 /* LinearStack.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LinearStack.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				054713CF1FA71B2F00EE1B96 /* Assets.xcassets */,
 				054713D11FA71B2F00EE1B96 /* LaunchScreen.storyboard */,
 				054713D41FA71B2F00EE1B96 /* Info.plist */,
+				05C9DD021FA7BBB80042EE28 /* LinearStack.xib */,
 			);
 			path = IntermediateAutoLayout;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				05C9DD011FA7ABDA0042EE28 /* ResizableLabel.xib in Resources */,
 				054713D31FA71B2F00EE1B96 /* LaunchScreen.storyboard in Resources */,
+				05C9DD031FA7BBB80042EE28 /* LinearStack.xib in Resources */,
 				054713D01FA71B2F00EE1B96 /* Assets.xcassets in Resources */,
 				054713CE1FA71B2F00EE1B96 /* Main.storyboard in Resources */,
 			);
